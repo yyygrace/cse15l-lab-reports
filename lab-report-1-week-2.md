@@ -1,6 +1,7 @@
 # Lab Report 1
 
 ## Installling VS Code
+![Image](Screen%20Shot%202022-04-01%20at%208.13.38%20AM.png)
 
 * open this [link](https://code.visualstudio.com/) and hit download!
 * follow the setup instructions
