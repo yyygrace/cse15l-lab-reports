@@ -1,6 +1,6 @@
 # Lab Report 1
 
-## Installling VS Code
+## Installing VS Code
 * open this [link](https://code.visualstudio.com/) and hit download!
 * follow any on screen setup instructions
 
