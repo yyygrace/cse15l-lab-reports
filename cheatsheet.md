@@ -17,4 +17,4 @@
 this is a code block
 ```
 
-my [site] (https://yyygrace.github.io/cse15l-lab-reports/)
+my [site](https://yyygrace.github.io/cse15l-lab-reports/)
