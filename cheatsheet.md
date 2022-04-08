@@ -1,4 +1,4 @@
-# Markdown Cheat Sheet
+# Basic Markdown Syntax
 ## By Grace
 
 ![Image](https://media.discordapp.net/attachments/635292391330283529/957871189739585536/FB_IMG_1647811031622.jpg)
