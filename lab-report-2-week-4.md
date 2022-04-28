@@ -39,7 +39,8 @@ ___
 
 ![image](lab-report-2-week-4-ss/image6.png)
 
-The bug and symptom for this is that the program outputs a blank space for when there is a set of parentheses that contains nothing. This is because the program will add another element to the list no matter what is contained in a set of parentheses.
+
+The bug for this is an infinite while loop. The symptom is the error message that prints after a long time. This is because the code is looking for a set of parentheses when there is none after the last `]`.
 
 <br>
 
