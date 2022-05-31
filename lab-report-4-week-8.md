@@ -37,3 +37,8 @@ No. There would be a more involved change where the index of the open bracket is
 ## Question 3:
 
 No. This change would check for cases where there are line breaks involved in the middle of a set of brackets and parenthesis. Then it would go through a different series of cases to check if the line break messes up the link or not. 
+
+---
+
+
+![image](https://media.discordapp.net/attachments/635292391330283529/955572174796755024/FB_IMG_1647811023696.jpg)
